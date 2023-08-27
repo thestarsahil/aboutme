@@ -1,6 +1,6 @@
 
 <h1 align="center">Hola 👋, Hola Mi Nombre es Sahil Ali </h1>
-<h3 align="center">Full Stack Developer Specialised in NLP and Nueral Network </h3>
+<h3 align="center">Full Stack Developer Specialised in NLP and Neural Network </h3>
 
 <p align="center"> 
 <!---
