@@ -1,6 +1,6 @@
 
 <h1 align="center">Hola 👋, Hola Mi Nombre es Sahil Ali </h1>
-<h3 align="center">Full Stack Developer Specialised in NLP and Nueral Network </h3>
+<h3 align="center"> Pyhton Backend Developer Specialised in NLP and Computer Vision </h3>
 
 <p align="center"> 
 <!---
@@ -13,7 +13,7 @@
 </p>
   
 
-- 🌱 I’m currently working on **Natural Language Processing and LLMs**
+- 🌱 I’m currently working on **Natural Language Processing and Computer Vision**
 
 - 👯 I’m looking to collaborate on **Full Stack Project**
 
